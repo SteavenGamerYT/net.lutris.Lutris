@@ -1,4 +1,4 @@
-id: net.lutris.Lutris
+ id: net.lutris.Lutris
 sdk: org.gnome.Sdk
 runtime: org.gnome.Platform
 runtime-version: "46"
